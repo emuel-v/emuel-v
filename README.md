@@ -1,1 +1,1 @@
-# Hi! I'm Emuel 👋
+# Hi 👋, I'm Emuel
