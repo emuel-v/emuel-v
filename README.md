@@ -10,3 +10,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&color=242424&logo=linux&logoColor=dfb914)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=242424&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&color=242424&logo=github)
+
+### ⭐ Stats
+
+<!-- Catppuccin themed -->
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=emuel-vassallo&show_icons=true&bg_color=242424&border_color=323232&title_color=f5f5f5&text_color=d9e0ee&icon_color=f5f5f5" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emuel-vassallo&layout=compact&show_icons=true&bg_color=242424&border_color=323232&title_color=f5f5f5&text_color=ffffff&icon_color=f5f5f5&langs_count=6" alt="Most Used Languages" />
