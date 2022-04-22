@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🔭 I’m a full-time student at <a href="https://www.mcast.edu.mt"/>MCAST</a>.
+- 🔭 I’m a full-time Software Development student at <a href="https://www.mcast.edu.mt"/>MCAST</a>.
 
 - 🌱 I’m currently learning **Javascript**
 
