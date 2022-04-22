@@ -26,7 +26,7 @@
 ### ⭐ Stats
 
 <!-- Catppuccin themed -->
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=emuel-vassallo&show_icons=true&bg_color=202020&border_color=323232&title_color=f5f5f5&text_color=d9e0ee&icon_color=f5f5f5" alt="Github Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=emuel-vassallo&show_icons=true&bg_color=202020&border_color=323232&title_color=f5f5f5&text_color=d9e0ee&icon_color=f5f5f5" alt="Github Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emuel-vassallo&layout=compact&show_icons=true&bg_color=202020&border_color=323232&title_color=f5f5f5&text_color=ffffff&icon_color=f5f5f5&langs_count=6" alt="Most Used Languages" />
 
