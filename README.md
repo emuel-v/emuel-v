@@ -2,10 +2,11 @@
 
 ### About me
 
-- 🔭 I’m a full-time Software Development student at <a href="https://www.mcast.edu.mt"/>MCAST</a>
+- 🔭 I’m a full-time Software Development student at <a href="https://www.mcast.edu.mt"/>MCAST</a>.
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and **Linux**.
 
+- 💬 Ask me about Python, Linux ricing, books.
 
 ### Languages
 
