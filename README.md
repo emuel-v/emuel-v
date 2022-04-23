@@ -4,9 +4,9 @@
 
 - 🔭 I’m a full-time Software Development student at <a href="https://www.mcast.edu.mt"/>MCAST</a>.
 
-- 🌱 I’m currently learning **JavaScript** and **Linux**.
+- 🌱 I’m currently learning **JavaScript**.
 
-- 💬 Ask me about Python, Linux ricing, books.
+- 💬 Ask me about Python, Linux ricing, and books.
 
 ### Languages
 
