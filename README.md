@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript**.
 
-- 💬 Ask me about Python, Linux ricing, and books.
+- 💬 Ask me about **Python**, **Linux ricing**, and **books**.
 
 ### Languages
 
