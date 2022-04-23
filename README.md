@@ -12,8 +12,8 @@
 <!-- Icons: https://simpleicons.org/ -->
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=202020&logo=python)
-![HTML](https://img.shields.io/badge/-Html-05122A?style=for-the-badge&color=202020&logo=html)
-![CSS](https://img.shields.io/badge/-Css-05122A?style=for-the-badge&color=202020&logo=css)
+![HTML](https://img.shields.io/badge/-Html-05122A?style=for-the-badge&color=202020&logo=html5)
+![CSS](https://img.shields.io/badge/-Css-05122A?style=for-the-badge&color=202020&logo=css3)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=202020&logo=lua)
 
 ### Tools
