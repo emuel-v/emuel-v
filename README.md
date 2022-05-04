@@ -12,16 +12,10 @@
 
 <!-- Icons: https://simpleicons.org/ -->
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=202020&logo=python)
-![HTML](https://img.shields.io/badge/-Html-05122A?style=for-the-badge&color=202020&logo=html5)
-![CSS](https://img.shields.io/badge/-Css-05122A?style=for-the-badge&color=202020&logo=css3)
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=202020&logo=lua)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=202020&logo=python) ![HTML](https://img.shields.io/badge/-Html-05122A?style=for-the-badge&color=202020&logo=html5) ![CSS](https://img.shields.io/badge/-Css-05122A?style=for-the-badge&color=202020&logo=css3) ![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=202020&logo=lua)
 
 ### Tools
-![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=202020&logo=neovim&logoColor=4b9e4b)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&color=202020&logo=linux&logoColor=dfb914)
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=202020&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&color=202020&logo=github)
+![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=202020&logo=neovim&logoColor=4b9e4b) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&color=202020&logo=linux&logoColor=dfb914) ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=202020&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&color=202020&logo=github)
 
 
 ### ⭐ Stats
