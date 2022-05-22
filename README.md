@@ -1,4 +1,5 @@
-<h1 align="center">Hey, I'm Emuel!</h1>
+<h1 align="center">Hi 👋, I'm Emuel</h1>
+<br />
 
 <!--
 ### About me
@@ -20,8 +21,5 @@
 
 
 <!-- ### Stats -->
-<div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=emuel-vassallo&show_icons=true&bg_color=151515&border_color=424242&title_color=e8e3e3&text_color=e8e3e3&icon_color=f5f5f5" alt="Github Stats" />
-<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emuel-vassallo&layout=compact&show_icons=true&bg_color=151515&border_color=424242&title_color=e8e3e3&text_color=e8e3e3&icon_color=f5f5f5&langs_count=6" alt="Most Used Languages" />
- </div>
