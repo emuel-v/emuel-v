@@ -19,6 +19,6 @@
 
 
 <!-- ### Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=emuel-vassallo&show_icons=true&bg_color=202020&border_color=EFEFEF&title_color=f5f5f5&text_color=d9e0ee&icon_color=f5f5f5" alt="Github Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=emuel-vassallo&show_icons=true&bg_color=151515&border_color=424242&title_color=e8e3e3&text_color=e8e3e3&icon_color=f5f5f5" alt="Github Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emuel-vassallo&layout=compact&show_icons=true&bg_color=202020&border_color=EFEFEF&title_color=f5f5f5&text_color=ffffff&icon_color=f5f5f5&langs_count=6" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emuel-vassallo&layout=compact&show_icons=true&bg_color=151515&border_color=424242&title_color=e8e3e3&text_color=e8e3e3&icon_color=f5f5f5&langs_count=6" alt="Most Used Languages" />
