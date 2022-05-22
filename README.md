@@ -1,5 +1,6 @@
-<!-- <h1 align="center">Hey! I'm Emuel <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1>
+<h1 align="center">Hey, I'm Emuel!</h1>
 
+<!--
 ### About me
 
 - 🔭 I’m a full-time Software Development student at <a href="https://www.mcast.edu.mt"/>MCAST</a>.
@@ -19,6 +20,8 @@
 
 
 <!-- ### Stats -->
+<div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=emuel-vassallo&show_icons=true&bg_color=151515&border_color=424242&title_color=e8e3e3&text_color=e8e3e3&icon_color=f5f5f5" alt="Github Stats" />
-
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emuel-vassallo&layout=compact&show_icons=true&bg_color=151515&border_color=424242&title_color=e8e3e3&text_color=e8e3e3&icon_color=f5f5f5&langs_count=6" alt="Most Used Languages" />
+ </div>
