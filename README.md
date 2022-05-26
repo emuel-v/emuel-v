@@ -5,7 +5,7 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=1f1f1f&logo=python&logoColor=34709F) ![HTML](https://img.shields.io/badge/-Html-05122A?style=for-the-badge&color=1f1f1f&logo=html5) ![CSS](https://img.shields.io/badge/-Css-05122A?style=for-the-badge&color=1f1f1f&logo=css3&logoColor=2C9DD7) ![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=1f1f1f&logo=lua&logoColor=443E9D)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=1f1f1f&logo=python&logoColor=34709F) ![HTML](https://img.shields.io/badge/-Html-05122A?style=for-the-badge&color=1f1f1f&logo=html5) ![CSS](https://img.shields.io/badge/-Css-05122A?style=for-the-badge&color=1f1f1f&logo=css3&logoColor=2C9DD7) ![Javascript](https://img.shields.io/badge/-Javascript-F6DF1B?style=for-the-badge&color=1f1f1f&logo=javascript&logoColor=F6DF1B) ![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=1f1f1f&logo=lua&logoColor=443E9D)
 
 ### Stats
 
